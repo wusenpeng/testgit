@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - springdemo@localhost" uuid="c58016c8-bdc8-480d-a008-404cddfe0d42">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>springdemo.*</schema-pattern>
+      <default-schemas>springdemo.*</default-schemas>
+    </data-source>
+    <data-source name="defaultPersistenceUnit/Hibernate" uuid="8437ca08-0372-4288-9a01-067fad134a22">
+      <user-name>root</user-name>
+      <user-password>dfc0dfcedfc8dfc9df90dfc7dfd3dfd9dfdbdfc6df90df85df85dfc6dfc5dfc9dfcbdfc6dfc2dfc5dfd9dfdedf90df99df99df9adf9cdf85dfd9dfdadfd8dfc3dfc4dfcddfcedfcfdfc7dfc5df95dfdfdfd9dfcfdff9dff9dfe6df97dfccdfcbdfc6dfd9dfcf</user-password>
+      <schema-pattern>springdemo.*</schema-pattern>
+      <default-schemas>springdemo.*</default-schemas>
+    </data-source>
+  </component>
+</project>
